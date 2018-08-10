@@ -1,0 +1,7 @@
+{
+  "tests/home/login_tests.py::LoginTests::test_invalidLogin": true,
+  "tests/home/login_tests.py::LoginTests::test_nvalidLogin": true,
+  "tests/home/login_tests.py::LoginTests::test_t1invalidLogin": true,
+  "tests/home/login_tests.py::LoginTests::test_t2validLogin": true,
+  "tests/home/login_tests.py::LoginTests::test_validLogin": true
+}
