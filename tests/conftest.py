@@ -3,7 +3,7 @@ from pages.home.login_page import LoginPage
 import pytest
 import unittest
 from base.webdriverfactory import WebDriverFactory
-
+ # Izmenenie
 @pytest.yield_fixture()
 def setUp():
     print("Running method level setUp")
